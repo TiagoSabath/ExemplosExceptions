@@ -1,0 +1,14 @@
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosExceptions\bin\Debug\net7.0\ExemplosExceptions.exe
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosExceptions\bin\Debug\net7.0\ExemplosExceptions.deps.json
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosExceptions\bin\Debug\net7.0\ExemplosExceptions.runtimeconfig.json
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosExceptions\bin\Debug\net7.0\ExemplosExceptions.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosExceptions\bin\Debug\net7.0\ExemplosExceptions.pdb
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosExceptions\obj\Debug\net7.0\ExemplosExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosExceptions\obj\Debug\net7.0\ExemplosExceptions.AssemblyInfoInputs.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosExceptions\obj\Debug\net7.0\ExemplosExceptions.AssemblyInfo.cs
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosExceptions\obj\Debug\net7.0\ExemplosExceptions.csproj.CoreCompileInputs.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosExceptions\obj\Debug\net7.0\ExemplosExceptions.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosExceptions\obj\Debug\net7.0\refint\ExemplosExceptions.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosExceptions\obj\Debug\net7.0\ExemplosExceptions.pdb
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosExceptions\obj\Debug\net7.0\ExemplosExceptions.genruntimeconfig.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosExceptions\obj\Debug\net7.0\ref\ExemplosExceptions.dll
